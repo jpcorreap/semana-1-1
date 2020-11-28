@@ -38,7 +38,7 @@ a {
   margin-top: 5px;
 }
 
-.tituloEquipo {
+.tituloSecciones {
   text-align: center;
   margin: 20px;
   font-family: "Rubik", sans-serif;
@@ -46,4 +46,64 @@ a {
 
 .correo {
   color: black;
+}
+
+.uno {
+  float: left;
+  width: 49%;
+  background-color: #51d7d6;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.dos {
+  float: right;
+  width: 49%;
+  background-color: #51d7d6;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.img {
+  float: right;
+  width: 49%;
+  margin-top: 5px;
+}
+
+.resumen {
+  float: right;
+  width: 49%;
+}
+
+.btn {
+  vertical-align: middle;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+button {
+  background-color: #5479a3;
+  color: white;
+  height: 30px;
+  width: 150px;
+}
+
+.flexbox-container {
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.flexbox-container > div {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  font-family: Roboto;
+  background-color: rgb(71, 64, 68);
+  color: white;
+  line-height: 1;
+}
+
+.flexbox-container > div:first-child {
+  margin-right: 1px;
 }
