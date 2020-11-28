@@ -1,0 +1,21 @@
+body {
+    background-color: #547AA5;
+    font-family: 'Rubik', sans-serif;
+}
+
+header {
+    background-color: #293132;
+    color: white;
+    display: block;
+    padding: 20px;
+    margin: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav_item {
+    margin: 15px;
+}
