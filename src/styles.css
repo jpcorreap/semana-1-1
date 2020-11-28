@@ -1,0 +1,37 @@
+.uno {
+    float: left;
+    width: 49%;
+    background-color: #51D7D6;
+    margin-top: 5px;
+}
+
+.dos {
+    float: right;
+    width: 49%;
+    background-color: #51D7D6;
+    margin-top: 5px;
+}
+
+.img {
+    float: right;
+    width: 49%;
+    margin-top: 5px;
+}
+
+.resumen {
+    float: right;
+    width: 49%;
+}
+
+.btn {
+    vertical-align: middle;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: #5479A3;
+    color: white;
+    height: 30px;
+    width: 150px;
+}
