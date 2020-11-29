@@ -20,8 +20,17 @@ a {
   color: black;
 }
 
+.correo:hover {
+  color: blue;
+  cursor: pointer;
+}
+
 .nav_item {
   margin: 15px;
+}
+
+.nav_item:hover {
+  background-color: gray;
 }
 
 .perfilIndividual {
@@ -104,7 +113,6 @@ button {
   width: 100%;
   padding: 10px;
   font-size: 14px;
-  font-family: Roboto;
   background-color: rgb(71, 64, 68);
   color: white;
   line-height: 1;
@@ -112,4 +120,13 @@ button {
 
 .flexbox-container > div:first-child {
   margin-right: 1px;
+}
+
+button:hover {
+  background-color: blue;
+  cursor: pointer;
+}
+
+#team {
+  padding-bottom: 30px;
 }
