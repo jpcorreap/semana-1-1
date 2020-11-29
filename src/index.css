@@ -44,6 +44,7 @@ a {
   margin-right: 5px;
   margin-left: 5px;
   border-radius: 20px;
+  padding: 25px;
 }
 
 .equipo {
@@ -138,4 +139,21 @@ button:hover {
 
 #team {
   padding-bottom: 30px;
+}
+
+h2 {
+  color: white;
+}
+
+.perfilIndividual {
+  width: 33%;
+}
+
+.detail {
+  color: white;
+}
+
+.detail:hover {
+  color: gray;
+  cursor: zoom-in;
 }
