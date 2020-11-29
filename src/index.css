@@ -16,6 +16,10 @@ a {
   text-decoration: none;
 }
 
+.correo {
+  color: black;
+}
+
 .nav_item {
   margin: 15px;
 }
@@ -46,6 +50,8 @@ a {
 
 .correo {
   color: black;
+  font-style: italic;
+  text-decoration: underline;
 }
 
 .uno {
