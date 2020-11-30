@@ -1,6 +1,7 @@
 # Proyecto Final Sprint 1
 
 ![Demostración del proyecto](https://dl.dropboxusercontent.com/s/3gqwud0uqrkazdl/Demo%20Sprint%201%20Equipo%201.gif)
+<br />
 Entrega final del Sprint 1 enmarcado dentro de la Misión TIC 2022 a cargo de la Universidad Tecnológica de Pereira, en Colombia.
 
 ## Autores
@@ -27,7 +28,7 @@ Puede ver una demostración en vivo de este proyecto accediendo al siguiente enl
 
 [Licencia MIT](LICENSE).
 
-## Instrucciones que se proporcionaron para la creación del Sprint:
+## Instrucciones originales:
 
 Desarrollar un sitio web que conste de 5 secciones, cada sección deberá ser realizada por un estudiante. Los diferentes elementos del sitio web contarán con estilos personalizados creados por los estudiantes y deberán estar condensados en una sola hoja de estilos.
 
