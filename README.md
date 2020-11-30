@@ -1,4 +1,33 @@
-# Proyecto final Sprint I
+# Proyecto Final Sprint 1
+
+![Demostración del proyecto](https://dl.dropboxusercontent.com/s/3gqwud0uqrkazdl/Demo%20Sprint%201%20Equipo%201.gif)
+Entrega final del Sprint 1 enmarcado dentro de la Misión TIC 2022 a cargo de la Universidad Tecnológica de Pereira, en Colombia.
+
+## Autores
+
+Equipo 1:
+
+- Mishell Valeria Arboleda Quintero
+- Héctor Jair Fonseca Pinto
+- Juan Pablo Correa Puerta
+- Wilson Armando Bojacá González
+- Heiler Meléndez
+
+## ¿Cómo replicar el proyecto?
+
+1. Hacer `git clone` de este repositorio.
+2. Ubicarse en la carpeta src con el comando `cd src`.
+3. Abrir el archivo index.html con su navegador web. También puede usar extensiones como [Open Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) e iniciar un servidor local en su computador.
+
+## Live demo
+
+Puede ver una demostración en vivo de este proyecto accediendo al siguiente enlace: [https://juanpablocorrea.co/semana-1-1/src](https://juanpablocorrea.co/semana-1-1/src).
+
+## Licencia
+
+[Licencia MIT](LICENSE).
+
+## Instrucciones que se proporcionaron para la creación del Sprint:
 
 Desarrollar un sitio web que conste de 5 secciones, cada sección deberá ser realizada por un estudiante. Los diferentes elementos del sitio web contarán con estilos personalizados creados por los estudiantes y deberán estar condensados en una sola hoja de estilos.
 
@@ -6,7 +35,7 @@ Para iniciar con el desarrollo del sitio web, los estudiantes deberán definir p
 
 El proyecto, deberá manejarse versionado en un repositorio remoto en github, en el que los diferentes miembros del equipo deben tener acceso, no se permite el push directo a las ramas Dev o Master.
 
-## Secciones
+### Secciones
 
 - Sección superior, cabecera o header: esta sección deberá contar con el menú de navegación a tres páginas internas del sitio web y su respectivo enlace al inicio. Debe contar con una imagen que ocupe el ancho del sitio.
   El menú debe de estar en un tag `<nav></nav>`.
