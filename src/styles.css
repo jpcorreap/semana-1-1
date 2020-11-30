@@ -229,12 +229,12 @@ button {
 }
 
 #link_codigo {
-  color: cyan;
+  color: #51d7d6;
   text-decoration: underline;
 }
 
 #link_codigo:hover {
-  color: blue;
+  color: #547aa5;
 }
 
 ul {
