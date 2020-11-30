@@ -24,6 +24,10 @@ Equipo 1:
 
 Puede ver una demostración en vivo de este proyecto accediendo al siguiente enlace: [https://juanpablocorrea.co/semana-1-1/src](https://juanpablocorrea.co/semana-1-1/src).
 
+## Proceso del flujo de Git
+
+Se usaron dos ramas base, `master` y `develop`. Desde `develop` se creaban más ramas `issue_<nombre_issue>` con la intención de realizar cambios. Una vez se terminaban los cambios en las ramas issue, se hacía un pull request desde issue hacia develop, que posteriormente era revisado, autorizado y mezclado por Juan Pablo. Posteriormente a las pruebas de cumplimiento de todas las funcionalidades en `develop`, se hacían pull requests dede `develop` hacia `master`.
+
 ## Licencia
 
 [Licencia MIT](LICENSE).
